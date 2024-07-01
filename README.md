@@ -10,4 +10,8 @@ This script is a basic TCP port scanner implemented in Python. It scans ports on
 
 > pip install -r Requirements.txt
 
-> python PortScanner.py '192.167.143.1'
+> python PortScanner.py Hostname
+
+### Example
+> python PortScanner.py google.com
+> python PortScanner.py 142.250.77.206
