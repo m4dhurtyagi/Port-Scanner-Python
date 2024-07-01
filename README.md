@@ -8,8 +8,6 @@ This script is a basic TCP port scanner implemented in Python. It scans ports on
 
 > cd Port-Scanner-Python
 
-> pip install -r Requirements.txt
-
 > python PortScanner.py Hostname
 
 ### Example
