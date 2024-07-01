@@ -14,4 +14,5 @@ This script is a basic TCP port scanner implemented in Python. It scans ports on
 
 ### Example
 > python PortScanner.py google.com
+
 > python PortScanner.py 142.250.77.206
